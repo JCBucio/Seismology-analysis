@@ -1,0 +1,36 @@
+* **************************************************
+* NETWORK     : G
+* STATION     : UNM
+* LOCATION    : 00
+* CHANNEL     : BHN
+* CREATED     : 2021-09-22T12:11:42.658331Z
+* START       : 2013-02-15T00:00:00.000000Z
+* END         : 2500-12-31T23:59:59.000000Z
+* DESCRIPTION : Unam - Mexico, Mexico
+* LATITUDE    : 19.329662
+* LONGITUDE   : -99.178065
+* ELEVATION   : 2280.0
+* DEPTH       : 0.0
+* DIP (SEED)  : 0.0
+* AZIMUTH     : 0.0
+* SAMPLE RATE : 20.0
+* INPUT UNIT  : M
+* OUTPUT UNIT : counts
+* INSTTYPE    : None
+* INSTGAIN    : 2660.0 (m/s)
+* SENSITIVITY : 4462850000.0 (m/s)
+* A0          : 6535.95
+* **************************************************
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 4
+ -1.219600e-02 +1.198200e-02
+ -1.219600e-02 -1.198200e-02
+ -3.674580e+01 +7.200380e+01
+ -3.674580e+01 -7.200380e+01
+CONSTANT 2.916896e+13
+
+
+
